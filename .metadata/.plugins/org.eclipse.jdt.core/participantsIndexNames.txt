@@ -1,9 +1,0 @@
-INDEX VERSION 1.131
-C:\eclipse\workspace7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3945659125.index
-\hongbapProject\src
-C:\eclipse\workspace7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1698580056.index
-\hongbapProject\src
-C:\eclipse\workspace7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2419608241.index
-\hongbapProject\src
-C:\eclipse\workspace7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1867461889.index
-\hongbapProject\src
